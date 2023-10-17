@@ -1,0 +1,17 @@
+
+img {
+    width: 250px;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 13px;
+
+}
+.catalogo {
+    background-color: aquamarine;
+    margin:10px;
+    width: 230px;
+}
+
+
